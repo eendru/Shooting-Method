@@ -1,0 +1,1 @@
+  function [ result ] = pvfile(v, w0) result = (1+norm(v-w0)^2)^2; end 
